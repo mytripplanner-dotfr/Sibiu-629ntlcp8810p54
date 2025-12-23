@@ -1,0 +1,112 @@
+{
+  "pays": "Roumanie",
+  "drapeau": "🇷🇴",
+  "symbole": "🏰",
+  "titre": "Évasion relaxante au cœur de la Transylvanie",
+  "budget_total": "770€",
+  "duree": "4 jours",
+  "temps_vol": "4h35 (depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans la Grande Place",
+      "legende": "Après votre vol, installez-vous confortablement et laissez-vous charmer par l\"ambiance médiévale de Sibiu. Une balade douce autour de la Grande Place est parfaite pour débuter votre séjour en Transylvanie.",
+      "lieu": "Sibiu",
+      "activites": [
+        "<strong>🛬 Arrivée à Sibiu</strong>: Atterrissage à l\"aéroport international de Sibiu et transfert vers votre hébergement au cœur de la ville.",
+        "<strong>🛏️ Installation à l\"hôtel</strong>: Prenez le temps de vous installer dans votre hôtel 3* et de vous rafraîchir avant de commencer l\"exploration.",
+        "<strong>🚶‍♀️ Balade sur la Grande Place (Piata Mare)</strong>: Découvrez la Piata Mare, ses bâtiments colorés et l\"emblématique Hôtel de Ville. Profitez d\"un café en terrasse pour observer l\"animation locale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie en Roumanie est le Leu Roumain (RON). Les cartes bancaires sont largement acceptées, mais il est utile d\"avoir un peu de liquide pour les petits commerces ou marchés."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🧖‍♀️",
+      "titre": "Détente thermale et charme médiéval",
+      "legende": "Combinez une matinée de pure relaxation dans les eaux thermales avec une après-midi de découverte des passages secrets et des vues panoramiques de Sibiu. Une journée équilibrée entre bien-être et culture.",
+      "lieu": "Sibiu & Ocna Sibiului",
+      "activites": [
+        "<strong>♨️ Matinée aux Thermes de Ocna Sibiului</strong>: Profitez des eaux salées et curatives de cette station thermale historique, idéale pour la relaxation. (Environ 20-30 min de route depuis Sibiu)",
+        "<strong>🚶‍♂️ Exploration du Pont des Mensonges et de la Tour du Conseil</strong>: Flânez dans la Petite Place (Piata Mica), traversez le célèbre pont et montez à la Tour du Conseil pour une vue imprenable sur la ville.",
+        "<strong>🎨 Visite du Musée National Brukenthal</strong>: Admirez les collections d\"art européen et roumain dans ce magnifique palais baroque, un havre de paix culturel."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport vers Ocna Sibiului",
+          "texte": "Des bus locaux relient Sibiu à Ocna Sibiului régulièrement. Vous pouvez aussi opter pour un taxi ou un service de covoiturage pour plus de flexibilité."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Évasion champêtre et patrimoine rural",
+      "legende": "Plongez dans la campagne transylvanienne avec une visite d\"un musée en plein air unique et une balade apaisante dans un village traditionnel saxon. Une journée pour apprécier la richesse culturelle et naturelle de la région.",
+      "lieu": "Sibiu & environs (Dumbrava Sibiului, Cisnădioara)",
+      "activites": [
+        "<strong>🏞️ Visite du Musée ASTRA (Musée en plein air)</strong>: Explorez ce vaste musée en plein air, l\"un des plus grands d\"Europe, présentant l\"architecture et les traditions rurales roumaines. (À la périphérie de Sibiu)",
+        "<strong>🚶‍♀️ Balade à Cisnădioara et sa forteresse</strong>: Découvrez ce charmant village saxon et sa forteresse médiévale perchée, offrant une vue sereine sur les environs. (Environ 15-20 min de route)",
+        "<strong>🍽️ Dîner traditionnel roumain</strong>: Savourez les saveurs locales dans un restaurant typique de Sibiu, pour une immersion culinaire complète. Goûtez la \"ciorbă\" (soupe) et les \"mici\" (saucisses grillées)."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍲",
+          "titre": "Cuisine locale",
+          "texte": "La cuisine roumaine est riche et savoureuse. Ne manquez pas de goûter la \"sarmale\" (feuilles de chou farcies) et les \"papanași\" (beignets au fromage frais et confiture) pour le dessert."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers charmes et départ",
+      "legende": "Profitez d\"une dernière matinée pour quelques achats de souvenirs ou une ultime flânerie avant de prendre votre vol retour. Repartez la tête pleine de souvenirs transylvaniens et l\"esprit apaisé.",
+      "lieu": "Sibiu",
+      "activites": [
+        "<strong>🛍️ Shopping de souvenirs au Passage des Escaliers</strong>: Trouvez des produits artisanaux locaux, des icônes peintes ou des poteries uniques dans ce quartier pittoresque.",
+        "<strong>☕ Café et pâtisserie locale</strong>: Savourez un dernier moment de détente dans un café de la ville avec une \"papanași\" ou autre douceur roumaine.",
+        "<strong>🛫 Départ de Sibiu</strong>: Transfert vers l\"aéroport pour votre vol retour vers Paris, France, avec des souvenirs mémorables de Sibiu."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🚕",
+          "titre": "Transfert aéroport",
+          "texte": "L\"aéroport de Sibiu (SBZ) est proche du centre-ville. Un taxi ou un service de VTC vous y conduira en environ 15-20 minutes. Pensez à réserver à l\"avance si votre vol est tôt le matin."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 406 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 70 €/pers", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 140 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 100 €/pers", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mai à Septembre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "Les températures à Sibiu varient de 15 à 28°C en été et de 5 à 18°C au printemps/automne. Prévoir des vêtements adaptés à la saison choisie.", "symbole": "🌡️" },
+    { "titre": "La langue officielle est le roumain. L\"anglais est couramment parlé dans les zones touristiques et par les jeunes.", "symbole": "🗣️" },
+    { "titre": "Le réseau de transports en commun est efficace à Sibiu. Des taxis et services de VTC (Bolt, Uber) sont également disponibles et abordables.", "symbole": "🚌" },
+    { "titre": "La Roumanie fait partie de l\"UE, donc les frais de roaming sont les mêmes que dans votre pays d\"origine si vous êtes citoyen européen.", "symbole": "📶" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-SBZ/2026-05-15/2026-05-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Sibiu", "url": "https://www.sibiu.ro/en/tourism", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Sibiu", "url": "https://www.accuweather.com/fr/ro/sibiu/287754/weather-forecast/287754", "symbole": "🌤️" },
+    { "legende": "Hébergements", "titre": "Hôtels à Sibiu", "url": "https://www.booking.com/city/ro/sibiu.fr.html", "symbole": "🏨" }
+  ]
+}
